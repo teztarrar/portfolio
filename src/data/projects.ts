@@ -7,25 +7,24 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Puppetfactory",
-    techs: ["Next.js", "TypeScript"],
-    link: "https://puppetfactory.app/",
+    title: "autoIPChanger",
+    techs: ["Rust", "Tor", "SOCKS Proxy"],
+    link: "https://github.com/teztarrar/autoIPChanger",
   },
   {
-    title: "Script to generate Next.js project",
-    techs: ["Shell"],
-    link: "https://github.com/MaeWolff/create-nextjs-app-bash-script",
+    title: "networkRouting",
+    techs: ["C", "Networking", "Routing Algorithms"],
+    link: "https://github.com/teztarrar/networkRouting",
   },
   {
-    title: "Dictionary App",
-    techs: ["Next.js", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "firewall-wazuh",
+    techs: ["Rust", "iptables", "Firewall"],
+    link: "https://github.com/teztarrar/firewall-wazuh",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro", "TypeScript"],
-    link: "https://github.com/MaeWolff/astro-portfolio-template",
-    isComingSoon: true,
+    title: "Portfolio",
+    techs: ["HTML", "CSS", "JavaScript"],
+    link: "https://teztarrar.github.io/",
   },
 ];
 

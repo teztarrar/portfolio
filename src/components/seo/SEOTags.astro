@@ -8,16 +8,16 @@ type Props = HeadTags;
 
 const { title, description, noindex, og } = Astro.props;
 
-const DEFAULT_TITLE_PAGE = "Astro - Portfolio template";
+const DEFAULT_TITLE_PAGE = "Vishu Dev Singh - System Administrator Portfolio";
 const DEFAULT_DESCRIPTION_PAGE =
-  "A minimal portfolio template built with Astro and Tailwindcss.";
+  "Explore the professional portfolio of Vishu Dev Singh, a skilled System Administrator specializing in Linux and Windows environments.";
 const DEFAULT_URL_SITE = SITE_URL;
 
 const openGraph = {
   title: title || og?.title || DEFAULT_TITLE_PAGE,
   type: og?.type || "website",
   image: og?.image || "/opengraph-image.jpg",
-  alt: og?.alt || "astro portfolio template image",
+  alt: og?.alt || "Vishu Dev Singh system administrator portfolio",
   url: DEFAULT_URL_SITE,
   description: og?.description || DEFAULT_DESCRIPTION_PAGE,
 };
@@ -40,7 +40,7 @@ const openGraph = {
       },
     }}
     twitter={{
-      creator: "@itsstormzz_",
+      creator: "@itsstormzz_",  // Update to Vishu's actual handle if different
     }}
     extend={{
       link: [
@@ -57,7 +57,7 @@ const openGraph = {
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: openGraph.title },
         { name: "twitter:description", content: openGraph.description },
-        { name: "twitter:site", content: "@itsstormzz_" },
+        { name: "twitter:site", content: "@itsstormzz_" }, // Update to Vishu's actual handle if different
       ],
     }}
   />
@@ -68,11 +68,11 @@ const openGraph = {
         preload: false,
         display: "swap",
         selector: "html",
-        name: "Open Sans",
+        name: "Roboto",
         fallback: "sans-serif",
-        cssVariable: "font-open-sans",
+        cssVariable: "font-roboto",
         googleFontsURL:
-          "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap",
+          "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
       },
     ]}
   />
