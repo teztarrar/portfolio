@@ -1,7 +1,7 @@
 ---
 
 title: "Building networkRouting: A Command-Line Tool for Network Path Optimization"
-publishedAt: 2023-11-13
+publishedAt: 2024-06-05
 description: "Discover how networkRouting simplifies network path optimization and routing validation through a command-line interface built in C."
 slug: "building-networkrouting"
 isPublish: true
