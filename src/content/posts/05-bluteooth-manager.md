@@ -14,7 +14,7 @@ Setting up Bluetooth on Linux can be a complex process due to the variety of pac
 
 This **Rust-based Bluetooth Manager** detects the package manager on the host system and performs installation and configuration commands tailored to that manager, making Bluetooth setup a seamless experience.
 
-## Key Benefits of Using a Rust-Based Bluetooth Manager
+## Key Benefits of Using a Rust-Based Bluetooth Manager 
 
 1. **Cross-Distribution Support**: Automatically detects the Linux distribution's package manager and applies the appropriate commands for Bluetooth setup.
 2. **Error Handling**: Ensures robust error handling, providing feedback if any step fails, making debugging easier.
