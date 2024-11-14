@@ -1,7 +1,7 @@
 ---
 
 title: "Automating IP Changes with Rust: Building autoIPChanger"
-publishedAt: 2023-10-18
+publishedAt: 2024-05-18
 description: "Explore the creation and functionality of autoIPChanger, a Rust-based tool to automate IP changes for enhanced anonymity using Tor."
 slug: "automating-ip-changes-with-rust"
 isPublish: true
