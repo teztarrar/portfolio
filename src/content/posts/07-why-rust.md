@@ -10,7 +10,7 @@ isPublish: true
 
 In today’s fast-evolving IT landscape, choosing the right programming language is crucial for building efficient, secure, and reliable applications. Rust has emerged as a powerful choice, celebrated for its balance of performance, memory safety, and developer productivity. Here’s why Rust is increasingly chosen over languages like C++, Python, and Java for building modern IT solutions.
 
-![Rust Language Overview](https://link_to_image.com/rust-overview.png)
+![Rust Language Overview](/rust-overview.jpeg)
 
 *Figure 1: An overview of Rust’s core features and advantages.*
 
@@ -19,7 +19,7 @@ In today’s fast-evolving IT landscape, choosing the right programming language
 ### 1. **Memory Safety Without Garbage Collection**
 Rust ensures memory safety at compile-time without garbage collection. This approach significantly reduces issues like data races and memory leaks, offering a level of safety that minimizes the most common and costly errors in programming.
 
-![Memory Safety Comparison](https://link_to_image.com/memory-safety-chart.png)
+![Memory Safety Comparison](/memory-safety-chart.jpeg)
 
 *Figure 2: Comparison of memory safety across programming languages.*
 
@@ -41,7 +41,7 @@ Rust’s package manager, `Cargo`, and the growing repository of libraries and t
 
 The following chart compares Rust to other popular languages in terms of developer productivity, security, and system performance based on recent industry surveys.
 
-![Rust vs Other Languages](https://link_to_image.com/language-comparison-chart.png)
+![Rust vs Other Languages](/language-comparison-chart.jpeg)
 
 *Figure 3: Comparison of developer productivity, security, and performance in Rust versus other languages.*
 
@@ -61,7 +61,7 @@ The following chart compares Rust to other popular languages in terms of develop
 
 ## Future of Rust: Adoption Trends
 
-![Rust Adoption Growth](https://link_to_image.com/rust-adoption-trend.png)
+![Rust Adoption Growth](/rust-adoption-trend.jpeg)
 
 *Figure 4: Rust adoption rates across industries from 2020 to 2024.*
 
