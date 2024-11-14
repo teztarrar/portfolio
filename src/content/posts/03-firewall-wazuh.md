@@ -1,7 +1,7 @@
 ---
 
 title: "Securing Networks with firewall-wazuh: A Rust-Based Firewall Management Tool"
-publishedAt: 2024-05-26
+publishedAt: 2024-05-02
 description: "Explore how firewall-wazuh enhances network security with strict IP and port filtering, powered by Rust and iptables."
 slug: "securing-networks-with-firewall-wazuh"
 isPublish: true
