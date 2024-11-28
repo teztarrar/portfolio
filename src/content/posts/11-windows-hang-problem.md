@@ -79,7 +79,7 @@ When components like the CPU or GPU overheat, the system can freeze to prevent d
 ---
 
 ## **6. Software Conflicts**
-![Windows Safe Mode startup screen.](/Software-Conflicts.jpeg)
+![Windows Safe Mode startup screen.](/software-conflicts.jpeg)
 
 ### Why It Happens:
 Incompatible or poorly optimized software can disrupt system stability.
